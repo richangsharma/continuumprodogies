@@ -1,0 +1,47 @@
+body{
+	background: -moz-linear-gradient(left,  #FFFFFF, #ECE9E6);
+  }
+
+.navigation{
+	margin-left: -1%;
+	margin-top: 1%;
+}
+
+a{
+	text-decoration: none;
+}
+
+	.glyphicon{
+	font-size: 20px;
+}
+
+
+.navbar-right{
+	margin-left: -40px;
+}
+
+.navbar-custom{
+		background-color: #E03C31;
+}
+
+.active>a {
+	outline: none;
+
+}
+
+.dp{
+	margin-top: -76px;
+	margin-left: -200px;
+	width:200px;
+	height: 200px;
+	position: relative;
+
+}
+
+.jumbotron{
+	margin-top: -55px;
+}
+.navbar-brand{
+	font-family: 'Damion', cursive;
+	color: black;
+}
